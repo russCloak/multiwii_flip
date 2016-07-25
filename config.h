@@ -206,8 +206,8 @@
       /* If you have frame designed only for + mode and you cannot rotate FC phisycally for flying in X mode (or vice versa)
        * you can use one of of this options for virtual sensors rotation by 45 deegres, then set type of multicopter according to flight mode.
        * Check motors order and directions of motors rotation for matching with new front point!  Uncomment only one option! */
-      //#define SENSORS_TILT_45DEG_RIGHT        // rotate the FRONT 45 degres clockwise
-      //#define SENSORS_TILT_45DEG_LEFT         // rotate the FRONT 45 degres counterclockwise
+      //#define SENSORS_TILT_45DEG_RIGHT        // rotate the FRONT 45 degrees clockwise
+      //#define SENSORS_TILT_45DEG_LEFT         // rotate the FRONT 45 degrees counterclockwise
 
 
 /*************************************************************************************************/
@@ -869,7 +869,7 @@
     //#define VARIOMETER_SINGLE_TONE   // use only one tone (BEL); neccessary for non-patched vt100 terminals
 
   /********************************************************************/
-  /****           baord naming                                     ****/
+  /****           board naming                                     ****/
   /********************************************************************/
 
     /*
